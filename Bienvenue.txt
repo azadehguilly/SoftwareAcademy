@@ -1,2 +1,3 @@
-Bienvenue dans  mon repo github. 
+﻿Bienvenue dans  mon repo github. 
 J'ai créé ce fichier directement dans github
+j'ai modifié le nom du fichier
